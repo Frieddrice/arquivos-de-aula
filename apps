@@ -1,0 +1,22 @@
+import definicoes as d
+d.cabecalho()
+d.limpa()
+def soma(): #Coleta dois números e faz a soma eles
+    num1 = int(input("Digite o primeiro número: "))
+    num2 = int(input("Digite o segundo número"))
+    media = num1 + num2/2
+    print("Sua média é: ",media)
+
+def maior_numero():
+    num1 = int(input("Digite o primeiro número"))
+    num2 = int(input("Digite o segundo número"))
+if num1>num2
+    print("O maior número é: ",num1)
+else:
+    print("O menor número é: ",num2)
+
+def par_ou_impar():
+    num1 = int(input("Digite o primeiro número"))
+    num2 = int(input("Digite o segundo número"))
+
+

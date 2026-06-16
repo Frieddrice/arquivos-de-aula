@@ -1,0 +1,4 @@
+#nome = "Leandro"
+#anos = 27
+#print("Oi tudo bem, me chamo ", nome, " tenho ", anos, " anos")
+#print(f"Oi tudo bem, me chamo {nome} tenho {anos} anos")
